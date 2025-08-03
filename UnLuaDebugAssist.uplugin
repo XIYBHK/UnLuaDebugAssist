@@ -1,0 +1,30 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "UnLua调试辅助",
+  "Description": "自动解决UnLua软链接路径导致的断点无法命中问题，提供无缝的调试体验",
+  "Category": "Developer Tools",
+  "CreatedBy": "XIYBHK",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "UnLuaDebugAssist",
+      "Type": "Editor",
+      "LoadingPhase": "PostDefault"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "UnLua",
+      "Enabled": true
+    }
+  ]
+}
