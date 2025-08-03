@@ -1,0 +1,38 @@
+# Unreal Engine build artifacts
+Binaries/
+Intermediate/
+Build/
+DerivedDataCache/
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Compiled files
+*.dll
+*.lib
+*.exp
+*.pdb
+*.obj
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archive files
+*.7z
+*.zip
+*.rar
